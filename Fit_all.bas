@@ -1,5 +1,5 @@
-Attribute VB_Name = "Module1"
-Sub FitSelectedImagesOnOnePage2()
+Attribute VB_Name = "Fit_all"
+Sub FitallImagesOnOnePage()
     Dim wdDoc As Document
     Dim wdPageWidth As Single
     Dim wdPageHeight As Single
